@@ -132,7 +132,7 @@ export default class FeedItem extends React.Component {
             <div className="panel-footer">
               <div className="row">
                 <div className="col-md-12">
-                  <a href="#">{data.likeCounter.length} people</a>
+                  <a href="#">{data.likeCounter.length} people </a>
                     like this
                   </div>
                 </div>
