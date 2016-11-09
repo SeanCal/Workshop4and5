@@ -24,7 +24,7 @@ export default class StatusUpdate extends React.Component {
           </div>
           <div className="row">
             <div className="col-md-12">
-              ugh.
+              {this.props.children}
             </div>
           </div>
         </div>
